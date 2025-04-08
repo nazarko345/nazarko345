@@ -1,17 +1,21 @@
-<h1 align="center">Hi! Welcome to my GitHub✨</h1>
-<h3 align="center">I'm conscientious Frontend Developer from Ukraine🇺🇦</h3>
+# 💫 About Me:
+I am self-sufficient Front-end Developer, whose aim is to focus on<br>developing both Technical and Soft skills. I used to handle multiple<br>tasks simultaneously, see myself as a worker of a successful company.<br>As everyone, I can face to some problems, but I am feel excited when<br>it is solved. I used to study English from childhood, as a result every<br>time I try to find new ways to refine it and make myself proud. So, I<br>will do my best to improve everything in better way.
 
-- 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGkDiZ-lh8/cbArGcQZjVfGGU2YzlYgpw/edit?utm_content=DAGkDiZ-lh8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGkDiZ-lh8/cbArGcQZjVfGGU2YzlYgpw/edit?utm_content=DAGkDiZ-lh8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im._.nazar4ik/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nazarii-yankoshchuk345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nazarijankosuk@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nazarii-yankoshchuk345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazarii-yankoshchuk345" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/im._.nazar4ik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im._.nazar4ik/" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nazarko345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nazarko345&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarko345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarko345&show_icons=true&locale=en&layout=compact" alt="nazarko345" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=nazarko345&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
