@@ -1,8 +1,6 @@
 <h1 align="center">Hi! Welcome to my GitHub✨</h1>
 <h3 align="center">I'm conscientious Frontend Developer from Ukraine🇺🇦</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarko345" alt="nazarko345" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGkDiZ-lh8/cbArGcQZjVfGGU2YzlYgpw/edit?utm_content=DAGkDiZ-lh8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGkDiZ-lh8/cbArGcQZjVfGGU2YzlYgpw/edit?utm_content=DAGkDiZ-lh8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
