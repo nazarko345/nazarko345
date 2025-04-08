@@ -1,4 +1,6 @@
-# 💫 About Me:
+### Hi! Welcome to my GitHub✨
+
+# 🙋‍♂️ About Me:
 I am self-sufficient Front-end Developer, whose aim is to focus on<br>developing both Technical and Soft skills. I used to handle multiple<br>tasks simultaneously, see myself as a worker of a successful company.<br>As everyone, I can face to some problems, but I am feel excited when<br>it is solved. I used to study English from childhood, as a result every<br>time I try to find new ways to refine it and make myself proud. So, I<br>will do my best to improve everything in better way.
 
 
@@ -12,7 +14,7 @@ I am self-sufficient Front-end Developer, whose aim is to focus on<br>developing
 ![](https://nirzak-streak-stats.vercel.app/?user=nazarko345&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarko345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote which I really prefer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
