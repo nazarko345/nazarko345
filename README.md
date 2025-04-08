@@ -4,7 +4,7 @@
 I am self-sufficient Front-end Developer, whose aim is to focus on<br>developing both Technical and Soft skills. I used to handle multiple<br>tasks simultaneously, see myself as a worker of a successful company.<br>As everyone, I can face to some problems, but I am feel excited when<br>it is solved. I used to study English from childhood, as a result every<br>time I try to find new ways to refine it and make myself proud. So, I<br>will do my best to improve everything in better way.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im._.nazar4ik/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nazarii-yankoshchuk345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nazarijankosuk@gmail.com) 
 
 # 💻 Tech Stack:
