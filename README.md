@@ -32,7 +32,7 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
 
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=nazarko345&theme=tokyonight&hide_border=false)  <img align="right" height="151" width="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNmcmNlMjF1Ym9zZmJjcDl5MDNqYnp3amN0ZGQ3bG9lbTN1M29xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+![](https://nirzak-streak-stats.vercel.app/?user=nazarko345&theme=tokyonight&hide_border=false)  <img align="right" height="170" width="187" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNmcmNlMjF1Ym9zZmJjcDl5MDNqYnp3amN0ZGQ3bG9lbTN1M29xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nazarko345&icon=2&color=1)](https://visitcount.itsvg.in)
