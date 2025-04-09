@@ -1,10 +1,10 @@
-### Hi! Welcome to my GitHub✨
+# Hi! Welcome to my GitHub✨
 
-# 🙋‍♂️ About Me:
+## 🙋‍♂️ About Me:
 I am self-sufficient Front-end Developer, whose aim is to focus on developing both Technical and Soft skills. I used to handle multiple tasks simultaneously, see myself as a worker of a successful company. As everyone, I can face to some problems, but I am feel excited when it is solved. I used to study English from childhood, as a result every time I try to find new ways to refine it and make myself proud. So, I will do my best to improve everything in better way.
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -22,7 +22,7 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
 </div>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/im._.nazar4ik/" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="mailto:nazarijankosuk@gmail.com" />
@@ -31,7 +31,7 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
 </div>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=nazarko345&theme=tokyonight&hide_border=false)  <img align="right" height="151" width="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNmcmNlMjF1Ym9zZmJjcDl5MDNqYnp3amN0ZGQ3bG9lbTN1M29xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ---
