@@ -1,5 +1,5 @@
 # Hi! Welcome to my GitHub✨
-Front-end Developer (HTML5, CSS3, JavaScript, React, Next.js)
+Junior Front-end Developer (HTML5, CSS3, JavaScript, React, Next.js)
 
 ## 🙋‍♂️ About Me:
 I am self-sufficient Front-end Developer, whose aim is to focus on developing both Technical and Soft skills. I used to handle multiple tasks simultaneously, see myself as a worker of a successful company. As everyone, I can face to some problems, but I am feel excited when it is solved. I used to study English from childhood, as a result every time I try to find new ways to refine it and make myself proud. So, I will do my best to improve everything in better way.
