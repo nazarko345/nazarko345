@@ -16,11 +16,13 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
 
 ## 🚀 Featured Projects
 
-### 🧾 **STORK — Authentication System**
-A group project where I joined a team already using **Next.js**.  
-I quickly adapted and implemented a full **user registration and login flow**, focusing on smooth and secure authentication.
+### 🚐 **TravelTrucks**
+It was my first technical task, where I found all aspects of working by technical requirements. It was aimed to build the app
+for buing the Travel Trucks. 
 
 > **Role:** Developer • **Tech:** Next.js, React
+
+🔗 [GitHub](https://github.com/nazarko345/technical-task)  
 
 ---
 
@@ -29,6 +31,8 @@ Team project created to practice **JavaScript after the module**.
 I developed the **POST request to the server** and the **success modal logic**, handling both UI interaction and request flow.
 
 > **Role:** Developer • **Tech:** HTML, CSS, JavaScript
+
+🔗 [GitHub](https://github.com/nazarko345/portfolio-team-project)  
 
 
 ## 🌍 Languages
