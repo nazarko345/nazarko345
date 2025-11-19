@@ -1,30 +1,17 @@
 # Hi! Welcome to my GitHub✨
-Junior Front-end Developer (HTML5, CSS3, JavaScript, React, Next.js)
+Junior Front-end Developer (HTML5, CSS3, JavaScript, TypeScript React, Next.js)
 
 ## 🙋‍♂️ About Me:
 I am self-sufficient Front-end Developer, whose aim is to focus on developing both Technical and Soft skills. I used to handle multiple tasks simultaneously, see myself as a worker of a successful company. As everyone, I can face to some problems, but I am feel excited when it is solved. I used to study English from childhood, as a result every time I try to find new ways to refine it and make myself proud. So, I will do my best to improve everything in better way.
 
-
 ## 💻 Tech Stack:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="margin-right: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="margin-right: 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="margin-right: 10px;" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="margin-right: 10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="margin-right: 10px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="margin-right: 10px;" />
-  </a>
+<p align="left" style="display: flex; gap: 30px;">
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js"/>
 </p>
 
 
@@ -46,6 +33,29 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
+
+## 🚀 Featured Projects
+
+### 🧾 **STORK — Authentication System**
+A group project where I joined a team already using **Next.js**.  
+I quickly adapted and implemented a full **user registration and login flow**, focusing on smooth and secure authentication.
+
+> **Role:** Developer • **Tech:** Next.js, React
+
+---
+
+### 📌 **Portfolio Project — API Request Logic**
+Team project created to practice **JavaScript after the module**.  
+I developed the **POST request to the server** and the **success modal logic**, handling both UI interaction and request flow.
+
+> **Role:** Developer • **Tech:** HTML, CSS, JavaScript
+
+
+## 🌍 Languages
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&labelColor=0d1117)
+![English](https://img.shields.io/badge/English-B2-green?style=for-the-badge&labelColor=0d1117)
+![Italian](https://img.shields.io/badge/Italian-A2-red?style=for-the-badge&labelColor=0d1117)
 
 
 ## 📊 GitHub Stats:
