@@ -17,13 +17,12 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
 
 ## 🚀 Featured Projects
 
-### 🚐 **TravelTrucks**
-It was my first technical task, where I found all aspects of working by technical requirements. It was aimed to build the app
-for buing the Travel Trucks. 
+### 🦢 **Stork Project**
+A personal tracking app for new mothers to monitor their well-being, store doctors’ recommendations, keep a diary, manage daily tasks, and organize important health-related information in one place.
 
 > **Role:** Developer • **Tech:** Next.js, React
 
-🔗 [GitHub](https://github.com/nazarko345/technical-task)  
+🔗 [GitHub](https://github.com/Lu1bota/stork-final-project)  
 
 ---
 
@@ -40,6 +39,7 @@ I developed the **POST request to the server** and the **success modal logic**, 
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&labelColor=0d1117)
 ![English](https://img.shields.io/badge/English-B2-green?style=for-the-badge&labelColor=0d1117)
+![Russian](https://img.shields.io/badge/Russian-Communicative-yellow?style=for-the-badge&labelColor=0d1117)
 ![Italian](https://img.shields.io/badge/Italian-A2-red?style=for-the-badge&labelColor=0d1117)
 
 ## 📫 How to reach me
