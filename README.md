@@ -12,6 +12,7 @@ I am self-sufficient Front-end Developer, whose aim is to focus on developing bo
   <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
 </p>
 
 ## 🚀 Featured Projects
